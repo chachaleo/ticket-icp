@@ -22,7 +22,7 @@
         "ticket-icp-backend"
       ],
       "source": [
-        "src/new-react/dist"
+        "src/new-react/build/index.html"
       ],
       "type": "assets",
       "workspace": "new-react"

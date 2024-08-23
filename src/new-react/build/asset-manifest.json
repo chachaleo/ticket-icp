@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.063ab622.css",
+    "main.js": "/static/js/main.80bcfa26.js",
+    "static/media/tickETH-Banner.png": "/static/media/tickETH-Banner.37b708e7c3f957f8f843.png",
+    "static/media/dua-lipa.png": "/static/media/dua-lipa.cd3a38f66684d4cf01dc.png",
+    "static/media/row_2.png": "/static/media/row_2.d29059c587e5728ebaec.png",
+    "static/media/row.png": "/static/media/row.cd65d74aba46554646a8.png",
+    "static/media/row_3.png": "/static/media/row_3.1f8e128185a43c21cd80.png",
+    "static/media/GOLD.jpg": "/static/media/GOLD.42b9c4ea2bd86c7f7698.jpg",
+    "static/media/TICKETH.png": "/static/media/TICKETH.98e22ac3433cb52549ed.png",
+    "static/media/PLATINUM.jpg": "/static/media/PLATINUM.9a2972d02f01ef51ac2c.jpg",
+    "static/media/SILVER.jpg": "/static/media/SILVER.a5a998dd6b1afe4441ea.jpg",
+    "static/media/logo.png": "/static/media/logo.9302e8b122286f84d4b0.png",
+    "static/media/avatar.jpg": "/static/media/avatar.4fbcc2c344062c4e9278.jpg",
+    "static/media/metamaskHome.svg": "/static/media/metamaskHome.a42769d4f39b69ef50e629148c5c2c34.svg",
+    "static/media/nft.svg": "/static/media/nft.5f665fa61d156a73adb8ef8369308f2d.svg",
+    "static/media/line.svg": "/static/media/line.d8c218c2da1cd51ee322af999792d205.svg",
+    "static/media/metamask.svg": "/static/media/metamask.7a173b3be579b444ca1be9b5410f456f.svg",
+    "static/media/user-demo-avatar.svg": "/static/media/user-demo-avatar.2e92f38ab2471b09a611e6cf8a0088fc.svg",
+    "static/media/nft_placeholder.svg": "/static/media/nft_placeholder.59a59fd9152ab017c1267fa06227b773.svg",
+    "static/media/EthScan.svg": "/static/media/EthScan.cf78fe21c0ead50d6e5491ed9bcdc732.svg",
+    "static/media/eth.svg": "/static/media/eth.b3b64ae1a250c116ff5ccd95c4f9351d.svg",
+    "static/media/Opensea.svg": "/static/media/Opensea.7e2f74863f578e005aded69717d6ebc8.svg",
+    "index.html": "/index.html",
+    "main.063ab622.css.map": "/static/css/main.063ab622.css.map",
+    "main.80bcfa26.js.map": "/static/js/main.80bcfa26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063ab622.css",
+    "static/js/main.80bcfa26.js"
+  ]
+}

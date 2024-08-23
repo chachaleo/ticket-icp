@@ -1,16 +1,5 @@
 {
   "canisters": {
-    "internet_identity": {
-      "candid": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity.did",
-      "frontend": {},
-      "remote": {
-        "id": {
-          "ic": "rdmx6-jaaaa-aaaaa-aaadq-cai"
-        }
-      },
-      "type": "custom",
-      "wasm": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity_dev.wasm.gz"
-    },
     "ticket-icp-backend": {
       "build": "npx azle ticket-icp-backend",
       "candid": "src/ticket-icp-backend/ticket-icp-backend.did",
@@ -33,10 +22,10 @@
         "ticket-icp-backend"
       ],
       "source": [
-        "src/ticket-icp-frontend/dist"
+        "src/new-react/build/index.html"
       ],
       "type": "assets",
-      "workspace": "ticket-icp-frontend"
+      "workspace": "new-react"
     }
   },
   "defaults": {

@@ -17,6 +17,11 @@ dfx help
 dfx canister --help
 ```
 
+## Demonstration Video
+
+[Ticket ICP](https://www.canva.com/design/DAGOpQVI9Lo/u3ALvj4H1TWn1CUdSF9Xbw/watch?utm_content=DAGOpQVI9Lo&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+
 ## Running the project locally
 
 If you want to test your project locally, you can use the following commands:

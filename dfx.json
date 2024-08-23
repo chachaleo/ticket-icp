@@ -1,0 +1,50 @@
+{
+  "canisters": {
+    "internet_identity": {
+      "candid": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity.did",
+      "frontend": {},
+      "remote": {
+        "id": {
+          "ic": "rdmx6-jaaaa-aaaaa-aaadq-cai"
+        }
+      },
+      "type": "custom",
+      "wasm": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity_dev.wasm.gz"
+    },
+    "ticket-icp-backend": {
+      "build": "npx azle ticket-icp-backend",
+      "candid": "src/ticket-icp-backend/ticket-icp-backend.did",
+      "gzip": true,
+      "main": "src/ticket-icp-backend/src/index.ts",
+      "tech_stack": {
+        "cdk": {
+          "azle": {}
+        },
+        "language": {
+          "javascript": {},
+          "typescript": {}
+        }
+      },
+      "type": "custom",
+      "wasm": ".azle/ticket-icp-backend/ticket-icp-backend.wasm"
+    },
+    "ticket-icp-frontend": {
+      "dependencies": [
+        "ticket-icp-backend"
+      ],
+      "source": [
+        "src/ticket-icp-frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "ticket-icp-frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
